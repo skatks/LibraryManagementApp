@@ -1,0 +1,1 @@
+using System.Collections.Generic; public class BookManager { public Dictionary<string, Book> Books = new(); public bool AddBook(string id, string title, string author) { if (Books.ContainsKey(id)) return false; Books[id] = new Book { BookId = id, Title = title, Author = author }; return true; } }

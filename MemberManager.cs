@@ -1,0 +1,1 @@
+using System.Collections.Generic; public class MemberManager { public Dictionary<string, Member> Members = new(); public bool AddMember(string id, string name) { if (Members.ContainsKey(id)) return false; Members[id] = new Member { MemberId = id, Name = name }; return true; } }

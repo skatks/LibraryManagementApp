@@ -1,0 +1,1 @@
+using System.Collections.Generic; public class ReservationManager { public List<Reservation> Reservations = new(); public bool AddReservation(Book book, Member member) { if (book.Available) return false; Reservations.Add(new Reservation(book, member)); return true; } }

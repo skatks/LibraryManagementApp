@@ -1,0 +1,1 @@
+public class Library { public BookManager BookManager = new(); public MemberManager MemberManager = new(); public LoanManager LoanManager = new(); }

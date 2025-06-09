@@ -1,0 +1,1 @@
+public class Member { public string MemberId { get; set; } public string Name { get; set; } }

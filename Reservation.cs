@@ -1,0 +1,1 @@
+public class Reservation { public Book Book { get; set; } public Member Member { get; set; } public Reservation(Book book, Member member) { Book = book; Member = member; } }
