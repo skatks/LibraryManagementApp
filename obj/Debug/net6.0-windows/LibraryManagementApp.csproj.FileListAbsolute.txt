@@ -1,0 +1,10 @@
+C:\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.AssemblyInfo.cs
+C:\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.sourcelink.json
+C:\Users\admin\Downloads\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.AssemblyInfo.cs
+C:\Users\admin\Downloads\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\LibraryManagementApp\obj\Debug\net6.0-windows\LibraryManagementApp.sourcelink.json
